@@ -1,4 +1,4 @@
-# TAA-TP3 (Partie 1)
+# TAA-TP3 (Partie 1 et 2)
 
 Ce projet implémente un système Client, Store, Provider, Bank à l'aide de Spring ainsi qu'un service de monitoring permettant de 
 vérifier lors d'un transfert d'argent que le compte émetteur possède assez de fonds. 
